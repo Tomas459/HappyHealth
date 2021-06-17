@@ -1,4 +1,6 @@
 package pt.iade.HappyHealth;
+import java.time.LocalDate;
+
 
 public class Pessoa {
     private String nproprio;
